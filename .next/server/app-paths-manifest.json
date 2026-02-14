@@ -1,0 +1,8 @@
+{
+  "/assets/makes/page": "app/assets/makes/page.js",
+  "/assets/types/page": "app/assets/types/page.js",
+  "/assets/inspections/page": "app/assets/inspections/page.js",
+  "/assets/maintenance/page": "app/assets/maintenance/page.js",
+  "/assets/models/page": "app/assets/models/page.js",
+  "/assets/missing-stolen-reasons/page": "app/assets/missing-stolen-reasons/page.js"
+}
